@@ -19,7 +19,7 @@ const Footer = () => {
 					<li>
 						<a href="">
 							<img
-								src="../../public/images/ico-facebook.png"
+								src="/images/ico-facebook.png"
 								alt="facebook icon"
 							/>
 						</a>
@@ -27,7 +27,7 @@ const Footer = () => {
 					<li>
 						<a href="">
 							<img
-								src="../../public/images/ico-instagram.png"
+								src="/images/ico-instagram.png"
 								alt="instagram icon"
 							/>
 						</a>
@@ -35,7 +35,7 @@ const Footer = () => {
 					<li>
 						<a href="">
 							<img
-								src="../../public/images/ico-whatsapp.png"
+								src="/images/ico-whatsapp.png"
 								alt="whatsapp icon"
 							/>
 						</a>
@@ -43,7 +43,7 @@ const Footer = () => {
 					<li>
 						<a href="">
 							<img
-								src="../../public/images/ico-tiktok.png"
+								src="/images/ico-tiktok.png"
 								alt="tiktok icon"
 							/>
 						</a>
