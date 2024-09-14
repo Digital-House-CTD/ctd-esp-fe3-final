@@ -1,0 +1,29 @@
+button {
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    align-self: center;
+	margin-top: 12px;
+}
+
+.main{
+    background-color: red;
+    border: none;
+    color: white;
+    a{
+        color: white;
+    }
+}
+
+.secondary {
+    background-color: white;
+    border-color: gray;
+    color: gray;
+    a{
+        color: gray;
+        :hover{
+            color: rgb(141, 0, 0);
+        }
+    }
+}

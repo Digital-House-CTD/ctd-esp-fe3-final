@@ -1,0 +1,48 @@
+/* NAV */
+nav {
+	background-color: #f4f4f4;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	position: fixed;
+	top: 0;
+	padding: 8px 0;
+	z-index: 100;
+}
+nav a {
+	font-size: 1rem;
+	font-weight: 600;
+	padding: 0;
+	margin: 0;
+}
+
+nav button {
+	background-color: #121212;
+	color: white;
+	border: none;
+	height: fit-content;
+	padding: 12px;
+	cursor: pointer;
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	justify-items: center;
+	
+	
+}
+.navLinks {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 25%;
+	padding-right:5vw;
+}
+.navLogo {
+	font-size: 1rem;
+	font-weight: 400;
+	padding-left:5vw;
+}
+.navLogo em{
+	color: red;
+	font-style: normal;
+}
