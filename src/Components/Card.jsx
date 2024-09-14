@@ -18,7 +18,7 @@ const Card = ({ dentist }) => {
 		});
 
 		setShowMessage(true);
-		/* setTimeout(() => setShowMessage(false), 3000); */
+		setTimeout(() => setShowMessage(false), 3000);
 	};
 
 	
